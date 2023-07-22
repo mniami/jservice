@@ -1,6 +1,6 @@
 package pl.bydgoszcz.guideme.jservice.model
 
-data class Location (
+data class Place (
     val id: Int,
     val lat: Double,
     val lon: Double,
