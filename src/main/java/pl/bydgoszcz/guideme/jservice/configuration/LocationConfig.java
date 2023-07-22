@@ -1,4 +1,4 @@
-package pl.bydgoszcz.guideme.jservice.component;
+package pl.bydgoszcz.guideme.jservice.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

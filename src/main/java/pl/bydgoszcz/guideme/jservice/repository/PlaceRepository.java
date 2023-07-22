@@ -2,7 +2,7 @@ package pl.bydgoszcz.guideme.jservice.repository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-import pl.bydgoszcz.guideme.jservice.component.LocationConfig;
+import pl.bydgoszcz.guideme.jservice.configuration.LocationConfig;
 import pl.bydgoszcz.guideme.jservice.datasource.IPlaceDataSource;
 import pl.bydgoszcz.guideme.jservice.datasource.IPlaceDataSourceFactory;
 import pl.bydgoszcz.guideme.jservice.model.Place;
