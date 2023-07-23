@@ -7,7 +7,7 @@ data class Place (
     val name: String,
     val partnerId: String,
     val placeId: String,
-    val wifiCheckinEnabled: Boolean,
+    val wifiCheckingEnabled: Boolean,
     val wifis: List<WifiConfig>?,
     val zipCode: String?,
     val countryCode: String?,
